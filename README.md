@@ -26,3 +26,12 @@ date | day | note
 21/11/17 | Wed | 개선안 도출
 21/11/18 | Thurs | 최종 PPT 완성
 21/11/19 | Fri | 최종 발표
+
+## Notebooks and Analysis
+
+
+## Tech
+The following technologies were used for this part of the project:
+- Python 3
+- Pandas: Python package for data analysis
+- Matpltlib and Seaborn: Python 2D plotting library
