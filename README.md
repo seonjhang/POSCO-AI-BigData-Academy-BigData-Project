@@ -4,7 +4,7 @@
 - Industry: Health
 - Project Title: 
 - Project Descriotion:
-- Date:
+- Date: 21/11/10 ~ 21/11/19
 
 ## Dataset
 - patient_diagnosis_dat.csv: 환자 특성 정보 (row: 1,894 / colum: 30)
