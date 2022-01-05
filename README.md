@@ -3,7 +3,7 @@
 - Organization: POSCO AI Big Data Academy
 - Industry: Health
 - Project Title: 척추질환 환자의 특성을 반영한 차별화된 개인화 서비스 신규 개발로 수익성 향상
-- Project Description:
+- Project Description: P병원의 환자에 대한 지속적인 Care활동과 더불어 재방문율을 높일 수 있는 방안 제시
 - Date: 21/11/10 ~ 21/11/19
 
 ## Dataset
