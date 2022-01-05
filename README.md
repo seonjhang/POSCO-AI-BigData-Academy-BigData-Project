@@ -34,4 +34,4 @@ date | day | note
 The following technologies were used for this part of the project:
 - Python 3
 - Pandas: Python package for data analysis
-- Matpltlib and Seaborn: Python 2D plotting library
+- Matplotlib and Seaborn: Python 2D plotting library
