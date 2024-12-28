@@ -10,22 +10,22 @@
 - patient_diagnosis_dat.csv: 환자 특성 정보 (row: 1,894 / column: 30)
 - patient_surgery_data.csv: 환자 수술 및 치료 내용 (row: 1,894 / column: 15)
 - medical_image_data.csv: 척추 이상 실적 정보 (row: 1,894 / column: 18)
-Patient ID
-ADH: Anterior Disc Height (mm)
-PDH: Posterior Disc Height (mm)
-FA: Fat Accumulation
-Instability: Instability
-MF + ES: MF + ES
-Modic change: Modic Change
-PI: PI (Pelvic Incidence)
-PT: PT (Pelvic Tilt)
-Seg Angle: Segment Angle (raw)
-Vaccum disc: Vacuum Disc
-Bone Density
-DCA: Disc Cross-sectional Area
-DP: Disc Position
-SMS: Spinal Movement Scale
-SAS: Spinal Anterior Spondylolisthesis
+Patient ID  
+ADH: Anterior Disc Height (mm)  
+PDH: Posterior Disc Height (mm)  
+FA: Fat Accumulation  
+Instability: Instability  
+MF + ES: MF + ES  
+Modic change: Modic Change  
+PI: PI (Pelvic Incidence)  
+PT: PT (Pelvic Tilt)  
+Seg Angle: Segment Angle (raw)  
+Vaccum disc: Vacuum Disc  
+Bone Density  
+DCA: Disc Cross-sectional Area  
+DP: Disc Position  
+SMS: Spinal Movement Scale  
+SAS: Spinal Anterior Spondylolisthesis  
 
 
 ## Timeline
