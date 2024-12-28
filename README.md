@@ -9,7 +9,7 @@
 ## Dataset
 - patient_diagnosis_dat.csv: 환자 특성 정보 (row: 1,894 / column: 30)
 - patient_surgery_data.csv: 환자 수술 및 치료 내용 (row: 1,894 / column: 15)
-- medical_image_data.csv: 척추 이상 실적 정보 (row: 1,894 / column: 18)
+- medical_image_data.csv: 척추 이상 실적 정보 (row: 1,894 / column: 18)  
 Patient ID  
 ADH: Anterior Disc Height (mm)  
 PDH: Posterior Disc Height (mm)  
