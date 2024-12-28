@@ -7,8 +7,38 @@
 - Date: Nov 10, 2021 - Nov 19, 2021
 
 ## Dataset
-- patient_diagnosis_dat.csv: 환자 특성 정보 (row: 1,894 / column: 30)
-- patient_surgery_data.csv: 환자 수술 및 치료 내용 (row: 1,894 / column: 15)
+- patient_diagnosis_dat.csv: 환자 특성 정보 (row: 1,894 / column: 30)  
+Patient ID  
+Large Lymphocyte  
+herniation: Location of Herniation  
+ODI: ODI (Oswestry Disability Index)  
+Family History  
+ILD: Interstitial Lung Disease  
+Hypertension Status  
+Number of Past Surgeries  
+Diabetes Status  
+Peripheral Artery Disease Status  
+Anemia Status  
+Gender  
+Steroid Treatment  
+Renal Failure Status  
+Kidney Function  
+Cardiovascular Disease  
+Cancer Status  
+Age  
+Depression Status  
+Length of Hospitalization  
+Admission Date  
+Tumor Progression Status  
+Occupation  
+Weight  
+Discharge Date  
+Hemoglobin Level  
+Thrombotic Complication Status  
+Patient's Pain Level  
+Smoking Status  
+Duration of Pain (Months)  
+- patient_surgery_data.csv: 환자 수술 및 치료 내용 (row: 1,894 / column: 15)  
 - medical_image_data.csv: 척추 이상 실적 정보 (row: 1,894 / column: 18)  
 Patient ID  
 ADH: Anterior Disc Height (mm)  
