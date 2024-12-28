@@ -38,7 +38,7 @@ Thrombotic Complication Status
 Patient's Pain Level  
 Smoking Status  
 Duration of Pain (Months)  
-- patient_surgery_data.csv: 환자 수술 및 치료 내용 (row: 1,894 / column: 15)
+- patient_surgery_data.csv: 환자 수술 및 치료 내용 (row: 1,894 / column: 15)  
 Patient ID  
 Surgical Technique  
 Surgery Duration  
