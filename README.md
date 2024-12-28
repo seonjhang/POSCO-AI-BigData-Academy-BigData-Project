@@ -38,7 +38,22 @@ Thrombotic Complication Status
 Patient's Pain Level  
 Smoking Status  
 Duration of Pain (Months)  
-- patient_surgery_data.csv: 환자 수술 및 치료 내용 (row: 1,894 / column: 15)  
+- patient_surgery_data.csv: 환자 수술 및 치료 내용 (row: 1,894 / column: 15)
+Patient ID  
+Surgical Technique  
+Surgery Duration  
+Surgery Failure Status  
+Surgery Date  
+Height  
+Age  
+Admission Date  
+Recurrence Status  
+Weight  
+Discharge Date  
+Hemoglobin Level  
+Patient's Pain Level  
+Duration of Pain (Months)  
+Blood Type  
 - medical_image_data.csv: 척추 이상 실적 정보 (row: 1,894 / column: 18)  
 Patient ID  
 ADH: Anterior Disc Height (mm)  
